@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background: linear-gradient(
+    0deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(7, 179, 214, 1) 66%
+  );
+}
